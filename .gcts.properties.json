@@ -1,0 +1,12 @@
+{
+  "name": "_sherbrk_abap_code",
+  "version": "1.0.0",
+  "description": "/SHERBRK/ABAP_CODE",
+  "repositoryLayout": {
+    "format": "json",
+    "formatVersion": "6",
+    "keepClient": "false",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true"
+  }
+}
