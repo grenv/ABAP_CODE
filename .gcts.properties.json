@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "/SHERBRK/ABAP_CODE",
   "repositoryLayout": {
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/4EABF62AF4D81FE1B3849B34753F4E23_0",
     "format": "json",
-    "formatVersion": "6",
+    "formatVersion": "11",
     "keepClient": "false",
     "metaInformation": ".gctsmetadata/",
     "tableContent": "true"
